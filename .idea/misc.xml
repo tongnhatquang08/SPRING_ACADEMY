@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/22-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-intro/pom.xml" />
+        <option value="$PROJECT_DIR$/12-javaconfig-dependency-injection/pom.xml" />
+        <option value="$PROJECT_DIR$/16-annotations/pom.xml" />
+        <option value="$PROJECT_DIR$/24-test/pom.xml" />
+        <option value="$PROJECT_DIR$/26-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/28-transactions/pom.xml" />
+        <option value="$PROJECT_DIR$/30-jdbc-boot/pom.xml" />
+        <option value="$PROJECT_DIR$/32-jdbc-autoconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/33-autoconfig-helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/34-spring-data-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/44-actuator/pom.xml" />
+        <option value="$PROJECT_DIR$/42-security-rest/pom.xml" />
+        <option value="$PROJECT_DIR$/40-boot-test/pom.xml" />
+        <option value="$PROJECT_DIR$/38-rest-ws/pom.xml" />
+        <option value="$PROJECT_DIR$/36-mvc/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="openjdk-22" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
